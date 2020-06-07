@@ -1,2 +1,0 @@
-# learing
-github study
